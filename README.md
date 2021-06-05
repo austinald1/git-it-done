@@ -1,2 +1,2 @@
 # git-it-done
-module worl
+module work
